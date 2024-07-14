@@ -1,0 +1,4 @@
+YouTube tutorial
+https://youtu.be/Nv8J_Ruc280?si=zNWkianvBCVhJUj2
+
+~ Always run main.go code with "go run ."
